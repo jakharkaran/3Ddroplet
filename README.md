@@ -1,1 +1,1 @@
-Spline Based D Modelling of droplets on patterned surfaces
+Spline Based Modelling of droplets on patterned surfaces
